@@ -1,0 +1,43 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+header {
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+}
+
+main {
+    font-family: 'Crimson Text', serif;
+    font-size: 2rem;
+}
+
+div .portada {
+    border: solid;
+    background-size: contain;
+}
+
+footer {
+    background-color: black;
+    height: 35vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul .navbar-nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section {
+    margin-top: 200px;
+}
+
+iframe {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
