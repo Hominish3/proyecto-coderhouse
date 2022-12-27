@@ -1,3 +1,67 @@
+header {
+  font-family: "Dancing Script", cursive;
+  font-size: 16px;
+}
 
+.tarjeta:hover {
+  transform: scale(1.1);
+}
+
+.tarjeta {
+  margin: 35px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  font-family: "Dancing Script", cursive;
+  font-size: 16px;
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+footer div ul li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.nombreUsuario {
+  font-family: "Prata", serif;
+}
+
+.TelefonoUsuario {
+  font-family: "Prata", serif;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+}
+
+p {
+  font-family: "Prata", serif;
+  font-size: 21px;
+}
+
+h3 {
+  font-family: "Dancing Script", cursive;
+}
+
+span {
+  font-family: "Dancing Script", cursive;
+}
+
+h2 {
+  font-family: "Dancing Script", cursive;
+}
+
+.pregunta {
+  font-family: "Dancing Script", cursive;
+}
 
 /*# sourceMappingURL=style.css.map */
