@@ -1,3 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blue;
+}
+
 header {
   font-family: "Dancing Script", cursive;
   font-size: 16px;
@@ -13,13 +23,6 @@ header {
 
 .card-title {
   font-family: "Dancing Script", cursive;
-  font-size: 32px;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 
 footer {
@@ -29,7 +32,6 @@ footer {
   background-color: black;
   display: flex;
   justify-content: space-evenly;
-  flex-wrap: wrap;
 }
 
 footer div ul li {
